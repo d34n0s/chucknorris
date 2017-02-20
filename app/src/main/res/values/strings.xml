@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">retrofit</string>
+
+    <string name="b_get_text">Get %1$d</string>
+    <string name="jokeId">ID: %1$d</string>
+
+</resources>
